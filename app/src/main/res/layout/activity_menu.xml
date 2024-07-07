@@ -1,0 +1,69 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivity">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/menu_IMG_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/background"
+        android:scaleType="centerCrop"
+        />
+
+    <TextView
+        android:id="@+id/menu_TXT_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GIRL POWER"
+        android:textSize="50sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/alfa_slab_one"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:textStyle="bold"
+        />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/menu_TXT_title"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:layout_marginTop="160dp">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/menu_BTN_buttons_mode"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:backgroundTint="@color/black"
+            android:fontFamily="@font/alfa_slab_one"
+            android:text="Play With Arrows"
+            android:textSize="18sp"
+            />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/menu_BTN_tilt_mode"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:backgroundTint="@color/black"
+            android:fontFamily="@font/alfa_slab_one"
+            android:text="Play With Tilt"
+            android:textSize="18sp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/menu_BTN_scores"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:fontFamily="@font/alfa_slab_one"
+            android:text="Top Scores"
+            android:textSize="18sp" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</RelativeLayout>

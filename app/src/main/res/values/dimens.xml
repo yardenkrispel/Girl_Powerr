@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_cell_height">80dp</dimen>
+    <dimen name="default_cell_width">100dp</dimen>
+    <dimen name="default_cell_horizontal_margin">40dp</dimen>
+
+</resources>
