@@ -1,5 +1,8 @@
 # Girl Power Game
 
+![הורדה](https://github.com/yardenkrispel/Girl_Powerr/assets/69628894/e297d0ec-9d24-47d6-9597-4f96b07017bc)
+
+
 Welcome to the Girl Power Game! This is a fun and engaging game designed to empower and entertain players.
 
 ## Features
