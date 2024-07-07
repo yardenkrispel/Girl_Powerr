@@ -12,7 +12,7 @@ Welcome to the Girl Power Game! This is a fun and engaging game designed to empo
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/USERNAME/Girl_Power.git
+    git clone https://github.com/USERNAME/Girl_Powerr.git
     cd Girl_Power
     ```
 
@@ -31,6 +31,4 @@ Welcome to the Girl Power Game! This is a fun and engaging game designed to empo
 3. Use the controls to navigate and collect items while avoiding obstacles.
 4. Try to achieve the highest score.
 
-## License
 
-This project is licensed under the MIT License.
