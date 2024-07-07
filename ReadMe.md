@@ -7,6 +7,7 @@ Welcome to the Girl Power Game! This is a fun and engaging game designed to empo
 - Colorful graphics
 - Exciting gameplay
 - User-friendly interface
+- Background music for an immersive experience
 
 ## Installation
 
