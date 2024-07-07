@@ -31,4 +31,7 @@ Welcome to the Girl Power Game! This is a fun and engaging game designed to empo
 3. Use the controls to navigate and collect items while avoiding obstacles.
 4. Try to achieve the highest score.
 
+## Demo Video
+
+https://github.com/yardenkrispel/Girl_Powerr/assets/69628894/24012de1-82ee-4d79-96b9-3e5c1ac5feaf
 
